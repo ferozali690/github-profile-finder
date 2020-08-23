@@ -1,0 +1,48 @@
+.users {
+  list-style-type: none;
+
+  width: 300px;
+  float: left;
+}
+.users_container {
+  border: 1px solid;
+}
+
+.profile {
+  margin: 20px 0px 0px 20px;
+}
+.users_repo_list {
+  list-style-type: none;
+}
+.repo_count {
+  color: green;
+  margin-left: 5px;
+}
+.repo_name {
+  color: green;
+  font-weight: bold;
+}
+.repo_date {
+  color: red;
+  font-weight: bold;
+}
+.repo_heading {
+  margin-bottom: 10px;
+}
+.repo_container {
+  float: left;
+  margin-left: 450px;
+}
+.users_repo_container {
+  border: 1px solid;
+  margin-bottom: 10px;
+}
+input[type="text"] {
+  width: 250px;
+  height: 30px;
+}
+input[type="submit"] {
+  height: 34px;
+  width: 80px;
+  margin-left: 5px;
+}
